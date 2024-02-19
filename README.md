@@ -8,6 +8,9 @@ $ cd SmbTools
 # Install dependencies
 $ chmod Smb.py
 
+# Permission Tools
+$ chmod *
+
 # Run the app
 $ python Smb.py
 ```
