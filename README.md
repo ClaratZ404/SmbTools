@@ -12,7 +12,7 @@ $ cd SmbTools
 $ chmod Smb.py
 
 # Permission Tools
-$ chmod *
+$ chmod +x Smb.py
 
 # Run the app
 $ python Smb.py
