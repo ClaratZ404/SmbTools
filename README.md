@@ -1,3 +1,6 @@
+# CRACK INSTAGRAM & FACEBOOK
+Tools ini di buat hanya untuk edukasi pembelajaran 
+
 ```bash
 # Clone this repository
 $ git clone https://github.com/ClaratZ404/SmbTools
