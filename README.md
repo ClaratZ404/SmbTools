@@ -9,5 +9,5 @@ $ cd SmbTools
 $ chmod Smb.py
 
 # Run the app
-$ pyrhon Smb.py
+$ python Smb.py
 ```
